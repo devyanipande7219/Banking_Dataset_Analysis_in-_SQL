@@ -115,14 +115,3 @@ banking-sql-project/
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome. Feel free to fork the repository and enhance the analysis.
-
----
-
-## 📜 License
-
-This project is open-source and available under the MIT License.
-
----
